@@ -1,0 +1,59 @@
+__________________________
+GENERAL COMPUTER SHORTCUTS
+
+Most Frequently Used Shortcuts:
+-- Ctrl + S:  			   Save
+-- Ctrl + C:          	 	   Copy
+-- Ctrl + V: 		           Paste
+-- Win + V:           		   Open Clipboard
+-- Win + .:			   Emoji Panel
+-- Win + D: 			   Shows desktop
+-- Win + E:                        Open File Explorer
+-- Win + R:  			   Open the "Run" dialog
+-- Ctrl + Mouse Wheel Up/Down:	   Zooms in and out
+-- Alt + Tab: 			   Switch between open applications
+-- Win + UP/Down/Left/Right Arrow: Moves the selected window
+-- Win + Ctrl + D: 		   Creates a New Instance of Windows
+   -Win + Ctrl + Left/Right Arrow: Moves b/w different Instances of Windows
+-- Win + 1/2/3/...:                Switches b/w different Software Present on The TaskBar
+-- Win + L:			   Locks Windows (Sleep Mode)
+-- Alt + F4			   Close Current Window or if on Desktop then it will prompt ShutDown Popup 
+-- Win + X,U,U:                    More Direct Way To ShutDown
+-- Win: 			   You can basically Search on Your Computer
+-- Alt + F5:			   Refresh
+
+________________
+CHROME SHORTCUTS
+
+Tab Management:
+-- Ctrl + T:           Open a new tab
+-- Ctrl + W:           Close current tab
+-- Ctrl + Tab:         Switch to the next tab
+-- Ctrl + H:	       Open History
+-- Ctrl + J:	       Open Downloads	
+-- Ctrl + Shift + Tab: Switch to the previous tab
+
+Page Navigation:
+-- F11:      Full Screen Page 
+-- Ctrl + R: Reload current page
+-- Ctrl + F: Find on page
+
+__________________________
+YOUTUBE SHORTCUTS (Chrome)
+
+Playback Control:
+-- /:                Focus Search
+-- Spacebar: 	     Toggle play/pause
+-- J: 		     Rewind 10 seconds
+-- L: 		     Fast forward 10 seconds
+-- Left/Right Arrow: Rewind / Forward 5 seconds
+-- Up/Down Arrow:    Increase / Decrease volume
+-- M:                Mute/unmute
+-- C:                Toggle captions on/off
+-- F:                Enter or exit fullscreen
+-- I:                Miniplayer
+-- T:                Cinema View
+-- Shift + P:        Previous video in playlist
+-- Shift + N:        Next video in playlist
+ 
+
