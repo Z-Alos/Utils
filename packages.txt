@@ -1,0 +1,22 @@
+firefox
+kitty
+xdg-user-dirs
+git
+curl 
+wget 
+dolphin
+neovim 
+NetworkManager
+htop 
+btop
+unzip 
+zip 
+tar
+ffmpeg
+picom
+python3
+python3-pip
+pulseaudio pulsemixer pavucontrol
+rofi
+nodejs
+zsh
